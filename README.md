@@ -1,4 +1,4 @@
-# Titanic Disaster - Machine Learning Project
+# 🚢Titanic Disaster - Machine Learning Project
 
 ## [Jupyter Notebook - NBViewer Link](https://nbviewer.jupyter.org/github/Madhur6234/Titanic-Disaster---Machine-Learning-Project/blob/main/Titanic%20Disaster%20-%20Machine%20Learning%20Project.ipynb)
 
